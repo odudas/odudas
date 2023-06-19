@@ -5,7 +5,8 @@ Meu nome é Eduardo Tavares, tenho 20 anos de idade, nasci e resido em São Paul
 <div style="display: inline_block"><br>
   <img align="center" alt="Ícone ReactJs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>  
   <img align="center" alt="Ícone ReactJs" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>  
-  <img align="center" alt="Ícone JS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>  
+  <img align="center" alt="Ícone JS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Ícone SASS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>  
   <img align="center" alt="Ícone CSS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>  
   <img align="center" alt="Ícone HTML" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
 </div>
