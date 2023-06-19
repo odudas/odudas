@@ -1,4 +1,4 @@
-# Ola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Eu sou o Eduardo :smile:
+# Ola! Eu sou o Eduardo :smile:
 
 Meu nome é Eduardo Tavares, tenho 20 anos de idade, nasci e resido em São Paulo-SP e estudo
 
