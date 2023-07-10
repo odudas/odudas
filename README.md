@@ -9,7 +9,7 @@ Apaixonado pelas melhores tecnologias de desenvolvimento Web e Mobile que temos 
 
 Adoro tecnologia e atualmente, além da faculdade, estou estudando programação na Alura e na Rocketseat, com o objetivo de sempre dar um passo além e conseguir a minha primeira oportunidade como Desenvolvedor Frontend Web.
 
-Nas horas vagas gosto sempre de programar, `#LiveLongLearning`,além de escutar músicas, jogar com os amigos e assistir séries.
+Nas horas vagas gosto sempre de programar, `#LifeLongLearning`,além de escutar músicas, jogar com os amigos e assistir séries.
 
 ## Conhecimentos
 <div style="display: inline_block">
