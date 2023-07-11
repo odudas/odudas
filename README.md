@@ -2,7 +2,7 @@
 
 :man_student: Estudante de Tecnologia da Informação - UNIVESP :man_technologist: :computer:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Eduardo%20Tavares-style?style=flat-square-old&logo=Linkedin&logoColor=white&color=%237600a9&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Feduardotavarestech%2F)](https://www.linkedin.com/in/eduardotavarestech/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Eduardo%20Tavares-style?style=flat-square-old&logo=Linkedin&logoColor=white&color=%237600a9&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Feduardotavarestech%2F)](https://www.linkedin.com/in/eduardotdev/)
 [![Email Badge](https://img.shields.io/badge/eduardot.dev%40icloud.com-style?style=flat-square-bold&logo=iCloud&logoColor=white&color=%237600a9&link=mailto%3Aeduardot.dev%40icloud.com)](mailto:eduardot.dev@icloud.com)
 
 Apaixonado pelas melhores tecnologias de desenvolvimento Web e Mobile que temos disponíveis no mercado.
