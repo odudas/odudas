@@ -13,7 +13,7 @@ Nas horas vagas gosto sempre de programar, `#LifeLongLearning`,além de escutar 
 
 ## Conhecimentos
 <div style="display: inline_block">
-  <img align="center" alt="Next" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Next" height="45" width="45" src=https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="Ts" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
