@@ -13,7 +13,6 @@ Nas horas vagas gosto sempre de programar, `#LifeLongLearning`,além de escutar 
 
 ## Conhecimentos
 <div style="display: inline_block">
-  <img align="center" alt="ReactNative" height="45" width="45" src="https://icons-for-free.com/iconfiles/png/512/logo+react+react+js+icon-1320184811840217251.png">
   <img align="center" alt="Next" height="45" width="45" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png">
   <img align="center" alt="Ts" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
